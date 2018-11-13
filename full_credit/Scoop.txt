@@ -1,0 +1,5 @@
+Vanila
+classic Vanilla
+0.300000
+0.600000
+50
